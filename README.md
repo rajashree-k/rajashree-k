@@ -1,5 +1,29 @@
-### Hi there 👋
+## Hello Everyone :star_struck:
 
+
+[![@rajashree's Holopin board](https://holopin.io/api/user/board?user=rajashree)](https://www.holopin.io/@rajashree#)
+
+-----
+- I am looking to collaborate on **Android Application Development, VR-Dev, Java, Web Development & DSA**.
+
+-----
+## Languages
+ 
+  [![My Skills](https://skills.thijs.gg/icons?i=java,c,js,html,css,php,python,mysql&theme=light)](https://skills.thijs.gg)
+
+
+----
+## Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,unity,postman,androidstudio&theme=light)](https://skills.thijs.gg)
+
+----
+
+
+## Contact with me
+[![contact](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rajashree-k/)
+[![contact](https://skills.thijs.gg/icons?i=instagram&theme=light)](https://www.instagram.com/rajashree_k_mayya?igsh=bG1pc3hsMnBtcWR0)
+[![contact](https://skills.thijs.gg/icons?i=email&theme=light)](rajashreek378@gmail.com)
 <!--
 **rajashree-k/rajashree-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
