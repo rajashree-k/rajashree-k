@@ -9,21 +9,21 @@
 -----
 ## Languages
  
-  [![My Skills](https://skills.thijs.gg/icons?i=java,c,js,html,css,php,python,mysql&theme=light)](https://skills.thijs.gg)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,js,html,css,php,python,mysql&theme=light)](https://skills.thijs.gg)
 
 
 ----
 ## Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,unity,postman,androidstudio&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,unity,postman,androidstudio&theme=light)](https://skills.thijs.gg)
 
 ----
 
 
 ## Contact with me
-[![contact](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rajashree-k/)
-[![contact](https://skills.thijs.gg/icons?i=instagram&theme=light)](https://www.instagram.com/rajashree_k_mayya?igsh=bG1pc3hsMnBtcWR0)
-[![contact](https://skills.thijs.gg/icons?i=email&theme=light)](rajashreek378@gmail.com)
+[![contact](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rajashree-k/)
+[![contact](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/rajashree_k_mayya?igsh=bG1pc3hsMnBtcWR0)
+[![contact](https://skillicons.dev/icons?i=email&theme=light)](rajashreek378@gmail.com)
 <!--
 **rajashree-k/rajashree-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
